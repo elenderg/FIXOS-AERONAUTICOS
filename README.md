@@ -3,6 +3,8 @@ Este repositório contém um código que tem como objetivo gerar nomes de Waypoi
 
 ## Estrutura dos Nomes de Waypoints Aeronáuticos
 Os nomes de Waypoints aeronáuticos seguem uma estrutura básica de formato VCVCV ou CVCVC, onde V representa uma vogal e C representa uma consoante.
+Atualmente, números também podem usados nos waypoints, da seguinte forma:
+AB123 ou ABC12
 
 ## Fonte de Dados
 A lista completa de fixos aeronáuticos brasileiros em vigor pode ser encontrada no site oficial do [AISWEB](https://aisweb.decea.mil.br/?i=espaco-aereo&p=fixos  ). Além disso, as cartas aeronáuticas correspondentes estão disponíveis para visualização no mesmo [site](https://aisweb.decea.mil.br/?i=cartas&p=rotas).
