@@ -11,9 +11,9 @@ A lista completa de fixos aeronáuticos brasileiros em vigor pode ser encontrada
 Para utilizar o gerador de nomes de Waypoints aeronáuticos, siga as seguintes etapas:
 
 Clone este repositório em sua máquina local.
-Execute o código fornecido no ambiente de sua preferência.
+Execute o código fornecido no [Pascal Zim!](http://pascalzimbr.blogspot.com/).
 O código irá gerar nomes de Waypoints aeronáuticos com base na estrutura mencionada.
-Utilize os nomes gerados em suas atividades de planejamento de rotas aéreas.
+Utilize os nomes gerados conforme sua preferência.
 Lembre-se de consultar a fonte de dados oficial para obter a lista completa e atualizada dos fixos aeronáuticos brasileiros.
 
 ## Observações
