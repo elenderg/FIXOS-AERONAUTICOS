@@ -1,5 +1,5 @@
 # Gerador de Nomes de Waypoints Aeronáuticos
-Este repositório contém um código que tem como objetivo gerar nomes de Waypoints (coordenadas ou pontos FIXOS AERONÁUTICOS). Os waypoints são utilizados em Charts (mapas) durante o planejamento de rotas e no navegação de aeronaves no espaço aéreo brasileiro.
+Este repositório contém um código que tem como objetivo gerar nomes de Waypoints (coordenadas ou pontos FIXOS AERONÁUTICOS). Os waypoints são utilizados em Charts (mapas) durante o planejamento de rotas e na navegação de aeronaves no espaço aéreo brasileiro.
 
 ## Estrutura dos Nomes de Waypoints Aeronáuticos
 Os nomes de Waypoints aeronáuticos seguem uma estrutura básica de formato VCVCV ou CVCVC, onde V representa uma vogal e C representa uma consoante.
